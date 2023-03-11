@@ -1,4 +1,4 @@
-![FNLookup](https://repository-images.githubusercontent.com/490444433/3cae59ee-46bf-4471-a978-64dc2e618fa7)  
+![FNLookup](https://repository-images.githubusercontent.com/490444433/1c25dc92-06e7-4414-8afc-df0790e0536c)  
 
 # FNLookup
 [FNLookup](https://fnlookup.github.io/fnlookup/) is a easy browsing tool for [Fortnite](https://fn.gg) related content.
